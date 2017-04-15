@@ -83,3 +83,7 @@ Use `sysadmin@doctor.io` with password `Doctor!23` to login. Visit [http://local
 
 **Note** - Ping us on our [gitter channel](https://gitter.im/minio/minio) to report any installation issues on your platform.
 
+## Build status
+
+- [![Travis Build Status](https://travis-ci.org/minio/doctor.svg?branch=master)](https://travis-ci.org/minio/doctor)
+
